@@ -1,83 +1,113 @@
-# Futurohub Challenge
+# 🌍 FutureHub Challenge  
+### *Missões rápidas e criativas geradas por IA para promover sustentabilidade e inovação.*
 
-## Sobre
-Futurohub Challenge #8: "Música rápida e criativa gerada por IA para promover sustentabilidade e inovação."
+---
 
-## Visão Geral
-"Futurohub Challenge" é uma aplicação que utiliza I.A. Generativa (Gemini 2.5 Flash) para criar "músicas colaborativas e sustentabilidades" em diversas áreas de interesse. O objetivo é incentivar ações práticas que estimulem a "criatividade", "cooperação" e o "pensamento sustentável", ajudando usuários a desenvolver ideias e protótipos para resolver problemas reais.
+## Visão Geral  
 
-## Tecnologias Utilizadas
-- Python 3.10+
-- Google Gemini 2.5 Flash API
-- Bibliotecas:
-  - `google-generativeai` - acesso a API Gemini
-  - `python-dotenv` - gerenciamento de chaves seguras
-  - `json` - tratamento das respostas da IA
+**FutureHub Challenge** é uma aplicação que utiliza **IA Generativa (Gemini 2.5 Flash)** para criar **missões colaborativas e sustentáveis** em diversas áreas de interesse.  
+O objetivo é incentivar ações práticas que estimulem a **criatividade**, **cooperação** e o **pensamento sustentável**, ajudando usuários a desenvolver ideias e protótipos para resolver problemas reais.  
 
-## Estrutura do Projeto
+---
+
+## Tecnologias Utilizadas  
+
+- **Python 3.10+**  
+- **Google Gemini 2.5 Flash API**  
+- **Bibliotecas:**  
+  - `google-generativeai` → acesso à API Gemini  
+  - `dotenv` → gerenciamento de chaves seguras  
+  - `json`, `re` → tratamento das respostas da IA  
+
+---
+
+## Estrutura do Projeto  
+
 ```
-futurohub/
-├── test_ia.py          # Script principal que conecta com a API Gemini
-├── .env               # Armazena a classe da API GEMINI_API_KEY (não versionado)
-├── README.md          # Documentação do projeto
-└── requirements.txt   # Dependências do projeto
+
+│
+├── test_ia.py        # Script principal que se conecta à API Gemini
+├── .env              # Armazena a chave da API GEMINI_API_KEY (não versionar)
+├── README.md         # Documentação do projeto
+
+````
+
+---
+
+## Instalação e Execução  
+
+### Clonar o repositório
+```bash
+git clone https://github.com/caiohc28/GS2-IOT.git
+````
+### Instalar dependências
+
+```bash
+pip install google-generativeai python-dotenv
 ```
+
+### Criar o arquivo `.env`
+
+Crie um arquivo chamado `.env` na raiz do projeto com o seguinte conteúdo:
+
+```
+GEMINI_API_KEY=sua_chave_aqui
+```
+
+Para gerar sua chave:
+
+1. Vá até [Google AI Studio](https://aistudio.google.com/app/apikey)
+2. Crie um projeto e gere uma chave de API
+3. Copie e cole no arquivo `.env`
+
+---
 
 ## Como Usar
 
-### Pré-requisitos
-- Python 3.10 ou superior instalado
-- Chave da API Google Gemini
-- Conta no [Google AI Studio](https://makersuite.google.com/app/apikey)
+Execute o script principal:
 
-### Configuração Inicial
-
-#### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/GS2-IOT.git
-cd GS2-IOT
+py test_ia.py
+ou
+python test_ia.py
 ```
 
-#### 2. Instale as dependências
-```bash
-pip install -r requirements.txt
+O programa pedirá uma área de interesse, por exemplo:
+
+```
+Área de interesse: Sustentabilidade
 ```
 
-#### 3. Configure as variáveis de ambiente
-```bash
-# Crie o arquivo .env na pasta futurohub
-cd futurohub
-echo "GEMINI_API_KEY=sua_chave_aqui" > .env
-```
+E retornará uma missão no formato JSON:
 
-### Execução do Projeto
-
-#### 4. Execute o script principal
-```bash
-python futurohub/test_ia.py
-```
-
-#### 5. Interaja com o programa
-```
-Digite a área de interesse: Sustentabilidade
-```
-
-### Exemplo de Saída
 ```json
 {
   "titulo": "Design Sustentável em Ação",
-  "objetivo": "Escolha um objeto de uso diário que gera muito lixo ou consome muitas recursos e proponha um redesign simples que o torne mais sustentável",
-  "motivacao": "Pequenas mudanças no design podem ter um grande impacto ambiental positivo."
+  "objetivo": "Escolha um objeto de uso diário que gera muito lixo ou consome muitos recursos e proponha um redesenho simples que o torne mais sustentável (ex: mais durável, reciclável, feito de material renovável).",
+  "moral": "Pequenas mudanças no design podem ter um grande impacto ambiental positivo."
 }
 ```
 
-## Objetivo Educacional
-Este projeto demonstra o uso de IA Generativa aplicada à criação de missões sustentáveis e colaborativas. Ele integra conceitos de:
+---
 
-- **IA Generativa** - uso do modelo Gemini 2.5 Flash da Google
-- **Desenvolvimento Web e Mobile** - Integração com interfaces
+## Objetivo Educacional
+
+Este projeto demonstra o uso de **IA Generativa** aplicada à criação de **missões sustentáveis e colaborativas**.
+Ele integra conceitos de:
+
+* **IoT e IoB** → para conectar pessoas e ideias de forma colaborativa
+* **IA Generativa** → uso do modelo **Gemini 2.5 Flash** da Google
+* **Desenvolvimento Web e Mobile** → Integração com interfaces para exibir e interagir com as missões
+
+---
 
 ## Desenvolvedores
-- Caio Carnetti - RM 554600
-- Carlos Eduardo - RM 555223  
-- Antônio Lino - RM 554518
+```
+Caio Carnetti - RM 554600
+Carlos Eduardo - RM 555223
+Antônio Lino - RM 554518
+```
+---
+
+```
+```
