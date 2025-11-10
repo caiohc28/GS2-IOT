@@ -44,6 +44,8 @@ git clone https://github.com/caiohc28/GS2-IOT.git
 
 ```bash
 pip install google-generativeai python-dotenv
+ou
+py -m pip install google-generativeai python-dotenv
 ```
 
 ### Criar o arquivo `.env`
@@ -108,6 +110,3 @@ Carlos Eduardo - RM 555223
 Antônio Lino - RM 554518
 ```
 ---
-
-```
-```
