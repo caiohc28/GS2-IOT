@@ -1,0 +1,45 @@
+{
+  "data": "13/11/2025",
+  "missoes": {
+    "Inteligência Artificial": {
+      "titulo": "Algoritmos Verdes",
+      "objetivo": "Crie uma proposta para um sistema de IA que resolva um problema local de sustentabilidade (ex: otimização de água na agricultura, gestão de resíduos em comunidades, monitoramento de poluição) utilizando dados e inteligência artificial para uma solução prática e inovadora.",
+      "moral": "A inteligência artificial pode ser a mente por trás de um futuro mais verde e justo."
+    },
+    "Sustentabilidade": {
+      "titulo": "Ciclo de Valor",
+      "objetivo": "Crie uma solução inovadora para transformar um tipo específico de resíduo local (ex: orgânico, plástico, eletrônico) em um recurso útil ou produto com valor agregado para a comunidade.",
+      "moral": "Resíduos não são fim, mas sim o início de novas oportunidades sustentáveis."
+    },
+    "Programação": {
+      "titulo": "Algoritmo Sustentável",
+      "objetivo": "Crie um protótipo de software que, utilizando dados (reais ou simulados), proponha soluções inovadoras para otimizar o uso de recursos (ex: água, energia, matéria-prima) em um processo real.",
+      "moral": "Cada linha de código pode ser um passo para um futuro mais eficiente e verde."
+    },
+    "Design": {
+      "titulo": "Ciclo Urbano Sustentável",
+      "objetivo": "Projete uma solução de design inovadora que utilize um resíduo ou recurso local subaproveitado para resolver um problema real do seu bairro ou comunidade.",
+      "moral": "O design transforma desafios locais em oportunidades de um futuro mais verde."
+    },
+    "Empreendedorismo": {
+      "titulo": "Lixo Zero, Valor Infinito",
+      "objetivo": "Desenvolva uma solução de negócio inovadora que transforme um tipo de resíduo comum (plástico, orgânico, eletrônico, etc.) em um produto ou serviço de valor real e sustentável.",
+      "moral": "O descarte de hoje pode ser a matéria-prima e a oportunidade de amanhã."
+    },
+    "Educação": {
+      "titulo": "Eco-Inovação em Ação",
+      "objetivo": "Identifique um desafio ambiental ou social real na sua comunidade e crie uma proposta de solução inovadora e sustentável, detalhando como ela seria implementada e seu impacto.",
+      "moral": "Cada problema é uma chance de inovar para um futuro mais verde."
+    },
+    "Saúde e Bem-estar": {
+      "titulo": "Nutrição Consciente",
+      "objetivo": "Desenvolva um plano ou protótipo inovador para que instituições de saúde reutilizem ou redistribuam de forma sustentável o excedente de alimentos, combatendo o desperdício e beneficiando a comunidade.",
+      "moral": "Cada prato salvo é uma vida alimentada e um planeta respeitado."
+    },
+    "Inclusão e Diversidade": {
+      "titulo": "Eco-Inclusão Inovadora",
+      "objetivo": "Desenvolva uma solução inovadora (tecnológica ou social) que utilize recursos locais para empoderar um grupo marginalizado, resolvendo um desafio socioambiental real de forma sustentável.",
+      "moral": "A verdadeira inovação nasce da inclusão e floresce ao cuidar do nosso planeta e das pessoas."
+    }
+  }
+}
