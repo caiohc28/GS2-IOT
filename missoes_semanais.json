@@ -1,45 +1,30 @@
 {
-  "data": "13/11/2025",
+  "data": "14/11/2025",
   "missoes": {
-    "Inteligência Artificial": {
-      "titulo": "Algoritmos Verdes",
-      "objetivo": "Crie uma proposta para um sistema de IA que resolva um problema local de sustentabilidade (ex: otimização de água na agricultura, gestão de resíduos em comunidades, monitoramento de poluição) utilizando dados e inteligência artificial para uma solução prática e inovadora.",
-      "moral": "A inteligência artificial pode ser a mente por trás de um futuro mais verde e justo."
+    "CiberseguranÃ§a": {
+      "titulo": "Reboot Verde: Cibersegurança Sustentável",
+      "objetivo": "Identifique um sistema legado ou tecnologia desatualizada (ex: servidor, rede IoT industrial, aplicação web antiga) que represente um risco de cibersegurança e um consumo de recursos ineficiente. Desenvolva uma proposta inovadora que utilize princípios de cibersegurança avançada (ex: Zero Trust, automação inteligente, criptografia eficiente) para modernizar e proteger esse sistema, ao mesmo tempo que reduza significativamente seu impacto ambiental (ex: menor consumo de energia, otimização de hardware, prolongamento da vida útil). Apresente um plano de arquitetura e os ganhos esperados em segurança e sustentabilidade.",
+      "moral": "Proteger o digital é proteger o ambiental. A cibersegurança inovadora não apenas resguarda dados e sistemas, mas também otimiza recursos, pavimentando o caminho para um futuro tecnológico mais eficiente, seguro e ecologicamente responsável."
     },
-    "Sustentabilidade": {
-      "titulo": "Ciclo de Valor",
-      "objetivo": "Crie uma solução inovadora para transformar um tipo específico de resíduo local (ex: orgânico, plástico, eletrônico) em um recurso útil ou produto com valor agregado para a comunidade.",
-      "moral": "Resíduos não são fim, mas sim o início de novas oportunidades sustentáveis."
+    "Desenvolvimento de Talentos": {
+      "titulo": "Desafio Verde: Talento e Impacto",
+      "objetivo": "Forme equipes multifuncionais para identificar um problema real de sustentabilidade (ambiental, social ou econômico) na organização ou comunidade. Utilize metodologias de inovação (ex: design thinking) para desenvolver e propor uma solução criativa, prática e mensurável que gere impacto positivo e seja viável para implementação. Apresente um protótipo ou plano detalhado da solução.",
+      "moral": "Você não apenas aprimora suas habilidades em inovação e colaboração, mas também se posiciona como um agente de mudança, transformando desafios reais em oportunidades para um futuro mais sustentável e promissor."
     },
-    "Programação": {
-      "titulo": "Algoritmo Sustentável",
-      "objetivo": "Crie um protótipo de software que, utilizando dados (reais ou simulados), proponha soluções inovadoras para otimizar o uso de recursos (ex: água, energia, matéria-prima) em um processo real.",
-      "moral": "Cada linha de código pode ser um passo para um futuro mais eficiente e verde."
+    "InteligÃªncia Artificial": {
+      "titulo": "Eco-IA: Otimizando o Futuro Verde",
+      "objetivo": "Projetar uma solução conceitual de Inteligência Artificial que utilize dados em tempo real (sensores, imagens de satélite, dados históricos) para resolver um problema específico de sustentabilidade. Exemplos incluem: otimização da cadeia de suprimentos para reduzir desperdício de alimentos, previsão de padrões climáticos extremos para planejamento de resiliência, ou gestão inteligente de resíduos urbanos para maximizar a reciclagem e minimizar a poluição.",
+      "moral": "A Inteligência Artificial é mais do que código; é uma ferramenta poderosa para a inovação com propósito. Ao aplicarmos seu potencial para resolver problemas reais de sustentabilidade, não só impulsionamos o progresso tecnológico, mas também construímos um futuro mais inteligente, eficiente e harmonioso para o nosso planeta e suas comunidades."
     },
-    "Design": {
-      "titulo": "Ciclo Urbano Sustentável",
-      "objetivo": "Projete uma solução de design inovadora que utilize um resíduo ou recurso local subaproveitado para resolver um problema real do seu bairro ou comunidade.",
-      "moral": "O design transforma desafios locais em oportunidades de um futuro mais verde."
+    "Sustentabilidade e ESG": {
+      "titulo": "Catalisador Circular: Redesenho Sustentável",
+      "objetivo": "Identifique um produto, embalagem ou processo do seu dia a dia (em casa, no trabalho ou na comunidade) que gere resíduo significativo ou dependa de recursos não renováveis. Proponha um 'redesign' inovador (um conceito, um esboço ou uma ideia detalhada) que aplique princípios da economia circular e sustentabilidade para transformar o problema em uma solução de valor. Pense em: materiais alternativos, otimização do ciclo de vida, potencial de reutilização/reciclagem, ou redução do impacto social/ambiental.",
+      "moral": "Sua visão e capacidade de inovar são as ferramentas mais poderosas para transformar desafios ambientais em oportunidades de valor. Pequenas ideias de redesenho, guiadas pela sustentabilidade, podem desencadear grandes impactos positivos para o planeta e a sociedade, provando que a responsabilidade ESG é uma jornada de constante melhoria e criatividade."
     },
-    "Empreendedorismo": {
-      "titulo": "Lixo Zero, Valor Infinito",
-      "objetivo": "Desenvolva uma solução de negócio inovadora que transforme um tipo de resíduo comum (plástico, orgânico, eletrônico, etc.) em um produto ou serviço de valor real e sustentável.",
-      "moral": "O descarte de hoje pode ser a matéria-prima e a oportunidade de amanhã."
-    },
-    "Educação": {
-      "titulo": "Eco-Inovação em Ação",
-      "objetivo": "Identifique um desafio ambiental ou social real na sua comunidade e crie uma proposta de solução inovadora e sustentável, detalhando como ela seria implementada e seu impacto.",
-      "moral": "Cada problema é uma chance de inovar para um futuro mais verde."
-    },
-    "Saúde e Bem-estar": {
-      "titulo": "Nutrição Consciente",
-      "objetivo": "Desenvolva um plano ou protótipo inovador para que instituições de saúde reutilizem ou redistribuam de forma sustentável o excedente de alimentos, combatendo o desperdício e beneficiando a comunidade.",
-      "moral": "Cada prato salvo é uma vida alimentada e um planeta respeitado."
-    },
-    "Inclusão e Diversidade": {
-      "titulo": "Eco-Inclusão Inovadora",
-      "objetivo": "Desenvolva uma solução inovadora (tecnológica ou social) que utilize recursos locais para empoderar um grupo marginalizado, resolvendo um desafio socioambiental real de forma sustentável.",
-      "moral": "A verdadeira inovação nasce da inclusão e floresce ao cuidar do nosso planeta e das pessoas."
+    "Trabalho Remoto e HÃ­brido": {
+      "titulo": "Smart Work Sustentável",
+      "objetivo": "Identifique um processo repetitivo ou uma ferramenta de comunicação que sua equipe usa no trabalho remoto/híbrido. Sua missão é propor e implementar uma pequena inovação (ex: automação simples, um novo template, uma política de uso de vídeo mais consciente) que resolva um problema real (ex: perda de tempo, consumo excessivo de recursos digitais) e, ao mesmo tempo, promova a sustentabilidade digital e a eficiência da equipe.",
+      "moral": "Pequenas inovações digitais, com foco em sustentabilidade, não apenas otimizam o trabalho e economizam recursos, mas também inspiram uma cultura de responsabilidade e progresso contínuo. Você tem o poder de tornar o futuro do trabalho mais verde e inteligente."
     }
   }
 }
