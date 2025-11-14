@@ -18,8 +18,8 @@ genai.configure(api_key=GEMINI_KEY)
 # ---------------------------------------------------------
 # 2. Credenciais Oracle FIXAS no código
 # ---------------------------------------------------------
-ORACLE_USER = "RM554518"
-ORACLE_PASSWORD = "290805"
+ORACLE_USER = "RM554600"
+ORACLE_PASSWORD = "281205"
 ORACLE_DSN = "oracle.fiap.com.br:1521/ORCL"
 
 

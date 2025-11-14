@@ -1,30 +1,50 @@
 {
   "data": "14/11/2025",
   "missoes": {
-    "CiberseguranÃ§a": {
-      "titulo": "Reboot Verde: Cibersegurança Sustentável",
-      "objetivo": "Identifique um sistema legado ou tecnologia desatualizada (ex: servidor, rede IoT industrial, aplicação web antiga) que represente um risco de cibersegurança e um consumo de recursos ineficiente. Desenvolva uma proposta inovadora que utilize princípios de cibersegurança avançada (ex: Zero Trust, automação inteligente, criptografia eficiente) para modernizar e proteger esse sistema, ao mesmo tempo que reduza significativamente seu impacto ambiental (ex: menor consumo de energia, otimização de hardware, prolongamento da vida útil). Apresente um plano de arquitetura e os ganhos esperados em segurança e sustentabilidade.",
-      "moral": "Proteger o digital é proteger o ambiental. A cibersegurança inovadora não apenas resguarda dados e sistemas, mas também otimiza recursos, pavimentando o caminho para um futuro tecnológico mais eficiente, seguro e ecologicamente responsável."
+    "Cibersegurança": {
+      "titulo": "Ciber-Guardiões Verdes",
+      "objetivo": "Desenvolva um conceito de arquitetura de cibersegurança inovadora para proteger uma infraestrutura urbana vital e sustentável (ex: uma rede de energia renovável inteligente ou um sistema de gestão de resíduos autônomo de uma 'Cidade Verde'). Seu plano deve focar não apenas na resiliência contra ataques cibernéticos, mas também em como a própria solução de segurança pode otimizar o consumo de energia e recursos, minimizando sua pegada de carbono e garantindo a longevidade dos sistemas protegidos através de inovação, como IA e automação proativa.",
+      "moral": "A cibersegurança transcende a proteção de dados; ela é um pilar essencial para a construção de um futuro mais verde, eficiente e resiliente. Ao inovar em segurança, você se torna um Guardião Digital do planeta."
     },
-    "Desenvolvimento de Talentos": {
-      "titulo": "Desafio Verde: Talento e Impacto",
-      "objetivo": "Forme equipes multifuncionais para identificar um problema real de sustentabilidade (ambiental, social ou econômico) na organização ou comunidade. Utilize metodologias de inovação (ex: design thinking) para desenvolver e propor uma solução criativa, prática e mensurável que gere impacto positivo e seja viável para implementação. Apresente um protótipo ou plano detalhado da solução.",
-      "moral": "Você não apenas aprimora suas habilidades em inovação e colaboração, mas também se posiciona como um agente de mudança, transformando desafios reais em oportunidades para um futuro mais sustentável e promissor."
+    "Design Criatividade": {
+      "titulo": "Embalagem do Futuro: Desafio Eco-Criativo",
+      "objetivo": "Escolha um produto de consumo diário que dependa fortemente de embalagens plásticas descartáveis (ex: sachês de shampoo, embalagens de snacks, copos de café). Sua missão é redesenhar a embalagem desse produto, eliminando o plástico de uso único e propondo uma alternativa inovadora, sustentável (biodegradável, compostável, reutilizável ou refilável) e que, ao mesmo tempo, seja funcional, econômica e esteticamente agradável. Pense em todo o ciclo de vida do produto, desde a produção até o descarte.",
+      "moral": "Sua criatividade prova que é possível transformar grandes desafios ambientais em oportunidades de inovação. Ao unir design consciente e pensamento sustentável, você não apenas resolve um problema real, mas inspira a construção de um futuro onde a beleza e a funcionalidade andam de mãos dadas com a responsabilidade planetária."
     },
-    "InteligÃªncia Artificial": {
-      "titulo": "Eco-IA: Otimizando o Futuro Verde",
-      "objetivo": "Projetar uma solução conceitual de Inteligência Artificial que utilize dados em tempo real (sensores, imagens de satélite, dados históricos) para resolver um problema específico de sustentabilidade. Exemplos incluem: otimização da cadeia de suprimentos para reduzir desperdício de alimentos, previsão de padrões climáticos extremos para planejamento de resiliência, ou gestão inteligente de resíduos urbanos para maximizar a reciclagem e minimizar a poluição.",
-      "moral": "A Inteligência Artificial é mais do que código; é uma ferramenta poderosa para a inovação com propósito. Ao aplicarmos seu potencial para resolver problemas reais de sustentabilidade, não só impulsionamos o progresso tecnológico, mas também construímos um futuro mais inteligente, eficiente e harmonioso para o nosso planeta e suas comunidades."
+    "Empreendedorismo": {
+      "titulo": "Semear Futuro Sustentável",
+      "objetivo": "Identifique um problema local real (ex: desperdício, escassez de recursos, poluição ou desigualdade) e desenvolva uma ideia de produto ou serviço inovador que o resolva de forma sustentável. Pense em como essa solução pode gerar valor econômico, ambiental e social simultaneamente, utilizando recursos de forma eficiente e/ou criando novas oportunidades. Esboce um 'plano de impacto' inicial com passos concretos.",
+      "moral": "O empreendedorismo consciente é a força motriz para transformar desafios socioambientais em oportunidades de prosperidade compartilhada. Sua ideia tem o poder de ser uma semente de mudança real."
     },
-    "Sustentabilidade e ESG": {
-      "titulo": "Catalisador Circular: Redesenho Sustentável",
-      "objetivo": "Identifique um produto, embalagem ou processo do seu dia a dia (em casa, no trabalho ou na comunidade) que gere resíduo significativo ou dependa de recursos não renováveis. Proponha um 'redesign' inovador (um conceito, um esboço ou uma ideia detalhada) que aplique princípios da economia circular e sustentabilidade para transformar o problema em uma solução de valor. Pense em: materiais alternativos, otimização do ciclo de vida, potencial de reutilização/reciclagem, ou redução do impacto social/ambiental.",
-      "moral": "Sua visão e capacidade de inovar são as ferramentas mais poderosas para transformar desafios ambientais em oportunidades de valor. Pequenas ideias de redesenho, guiadas pela sustentabilidade, podem desencadear grandes impactos positivos para o planeta e a sociedade, provando que a responsabilidade ESG é uma jornada de constante melhoria e criatividade."
+    "Finanças Investimentos": {
+      "titulo": "Finanças de Impacto: Inovação Sustentável",
+      "objetivo": "Identifique um problema socioambiental premente (ex: escassez de água, resíduos, acesso à energia limpa em comunidades) e proponha um *modelo de financiamento inovador* (ex: um título verde com impacto social, uma plataforma de crowdfunding para startups sustentáveis, um fundo de microcrédito para tecnologias verdes) que utilize princípios de sustentabilidade e tecnologia. Detalhe como a inovação financeira pode escalar a solução para o problema real, gerando retorno financeiro e um impacto positivo e mensurável.",
+      "moral": "O capital, quando alocado com propósito, sustentabilidade e criatividade, transforma-se em um catalisador para a inovação e a resolução de problemas reais. É possível gerar valor financeiro significativo enquanto se constrói um futuro mais equitativo e próspero para o planeta e suas comunidades."
     },
-    "Trabalho Remoto e HÃ­brido": {
-      "titulo": "Smart Work Sustentável",
-      "objetivo": "Identifique um processo repetitivo ou uma ferramenta de comunicação que sua equipe usa no trabalho remoto/híbrido. Sua missão é propor e implementar uma pequena inovação (ex: automação simples, um novo template, uma política de uso de vídeo mais consciente) que resolva um problema real (ex: perda de tempo, consumo excessivo de recursos digitais) e, ao mesmo tempo, promova a sustentabilidade digital e a eficiência da equipe.",
-      "moral": "Pequenas inovações digitais, com foco em sustentabilidade, não apenas otimizam o trabalho e economizam recursos, mas também inspiram uma cultura de responsabilidade e progresso contínuo. Você tem o poder de tornar o futuro do trabalho mais verde e inteligente."
+    "IA Machine Learning": {
+      "titulo": "IA para o Ciclo Sustentável",
+      "objetivo": "Desenvolver um protótipo de modelo de Machine Learning para analisar dados de resíduos (urbanos ou industriais), identificando padrões que permitam otimizar sua coleta, triagem e/ou reaproveitamento. A meta é criar soluções inovadoras que transformem o que seria descartado em recursos valiosos para a economia circular.",
+      "moral": "Mostre como a inteligência artificial, aplicada com inovação e visão, pode não apenas resolver problemas críticos de sustentabilidade, mas também criar novas oportunidades e valor a partir do que antes era visto como descarte. Sua solução pode ser o catalisador para um futuro mais circular e eficiente."
+    },
+    "Marketing Digital": {
+      "titulo": "O Desafio Verde Digital",
+      "objetivo": "Identifique um pequeno negócio ou iniciativa local com forte pilar de sustentabilidade que enfrenta desafios em comunicar seu valor e impacto. Desenvolva uma estratégia de Marketing Digital inovadora e prática, utilizando ao menos duas ferramentas ou abordagens digitais criativas (ex: storytelling imersivo, campanhas com micro-influencers focados em causa, conteúdo interativo com IA, plataforma de engajamento comunitário). Seu objetivo é:\n1. Aumentar a visibilidade e o alcance digital do negócio.\n2. Educar e engajar o público sobre os benefícios sustentáveis de suas ações/produtos.\n3. Propor soluções concretas para um problema real de comunicação ou engajamento que o negócio enfrenta, gerando impacto positivo.",
+      "moral": "O Marketing Digital, quando aliado à inovação e propósito, não é apenas sobre vendas, mas sobre criar pontes, educar e mobilizar pessoas, transformando causas sustentáveis em movimentos reais e solucionando problemas que importam para o planeta e a comunidade."
+    },
+    "Programação": {
+      "titulo": "Código Verde: Desperdício Zero",
+      "objetivo": "Desenvolver uma aplicação (web ou mobile) para gerenciamento inteligente de estoque de alimentos. O objetivo é permitir que usuários registrem itens, suas datas de validade e recebam sugestões de consumo ou receitas para produtos próximos do vencimento. Inclua funcionalidades para visualizar padrões de desperdício e, opcionalmente, integrar um sistema simples de compartilhamento ou doação de excedentes.",
+      "moral": "Sua programação não é apenas código; é uma ferramenta poderosa para a sustentabilidade. Ao resolver problemas práticos como o desperdício de alimentos, você não só inova tecnologicamente, mas também cultiva um impacto positivo no meio ambiente e na sociedade, mostrando que pequenas intervenções digitais podem gerar grandes mudanças."
+    },
+    "Saúde Bem-estar": {
+      "titulo": "Semeando Bem-Estar: Inovação Verde para a Saúde",
+      "objetivo": "Desenvolva e prototipe uma solução de baixo custo para promover o acesso a alimentos frescos e nutritivos em comunidades urbanas carentes, utilizando princípios de sustentabilidade e tecnologia simples. Pode ser uma horta vertical comunitária inteligente (com monitoramento básico de umidade/luz), um sistema de compostagem que alimenta micro-hortas ou um aplicativo de 'troca e doação' de excedentes de pequenos produtores e hortas domésticas, visando reduzir o desperdício alimentar e melhorar a dieta local.",
+      "moral": "A verdadeira inovação floresce na união da tecnologia com a natureza, criando soluções acessíveis que nutrem tanto o corpo quanto o espírito comunitário, e semeando um futuro mais saudável e sustentável para todos."
+    },
+    "Sustentabilidade": {
+      "titulo": "Meu Eco-Inovador Pessoal",
+      "objetivo": "Identifique um item de uso diário (ex: filme plástico, cápsula de café, escova de dentes descartável, garrafa de plástico) que gere impacto ambiental significativo. Pesquise e implemente uma alternativa sustentável, inovadora e prática por pelo menos uma semana. Avalie a eficácia e os desafios.",
+      "moral": "Descubra o poder da inovação pessoal para resolver problemas ambientais do dia a dia. Perceba como pequenas escolhas e a busca por alternativas podem gerar um impacto positivo real e inspirar um estilo de vida mais consciente e sustentável."
     }
   }
 }
