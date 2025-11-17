@@ -47,6 +47,14 @@ pip install google-generativeai python-dotenv
 ou
 py -m pip install google-generativeai python-dotenv
 ```
+```bash
+pip install flask
+py -m pip install flask
+```
+```bash
+pip install oracledb
+py -m pip install oracledb
+```
 
 ### Criar o arquivo `.env`
 
