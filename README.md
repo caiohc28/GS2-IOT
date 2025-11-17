@@ -49,10 +49,12 @@ py -m pip install google-generativeai python-dotenv
 ```
 ```bash
 pip install flask
+ou
 py -m pip install flask
 ```
 ```bash
 pip install oracledb
+ou
 py -m pip install oracledb
 ```
 
