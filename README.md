@@ -26,9 +26,11 @@ O objetivo é incentivar ações práticas que estimulem a **criatividade**, **c
 ```
 
 │
-├── test_ia.py        # Script principal que se conecta à API Gemini
-├── .env              # Armazena a chave da API GEMINI_API_KEY (não versionar)
-├── README.md         # Documentação do projeto
+├── gerar_missoes.py   
+├── .env
+├── api.py
+├── missoes_semanais.json        
+├── README.md        
 
 ````
 
@@ -79,25 +81,35 @@ Para gerar sua chave:
 Execute o script principal:
 
 ```bash
-py test_ia.py
+py gerar_missoes.py
 ou
-python test_ia.py
+python gerar_missoes.py
+```
+```bash
+py api.py
+ou
+python api.py
+```
+```bash
+Acesse: http://localhost:5000
 ```
 
-O programa pedirá uma área de interesse, por exemplo:
-
-```
-Área de interesse: Sustentabilidade
-```
-
-E retornará uma missão no formato JSON:
+Serão retornadas missões no formato JSON, exemplo:
 
 ```json
 {
-  "titulo": "Design Sustentável em Ação",
-  "objetivo": "Escolha um objeto de uso diário que gera muito lixo ou consome muitos recursos e proponha um redesenho simples que o torne mais sustentável (ex: mais durável, reciclável, feito de material renovável).",
-  "moral": "Pequenas mudanças no design podem ter um grande impacto ambiental positivo."
-}
+  "data": "17/11/2025",
+  "missoes": {
+    "Cibersegurança": {
+      "titulo": "Ciber-Guardiões Verdes",
+      "objetivo": "Desenvolver uma estratégia ou protótipo inovador de cibersegurança que proteja sistemas e dados críticos de iniciativas sustentáveis (e.g., redes elétricas inteligentes, cadeias de suprimentos verdes ou tecnologias de monitoramento ambiental) contra ameaças cibernéticas. O objetivo é garantir a continuidade, integridade e privacidade, promovendo a resiliência digital e a sustentabilidade no mundo real.",
+      "moral": "A cibersegurança é a guardiã invisível que habilita um futuro sustentável. Sua inovação e dedicação não apenas protegem dados, mas garantem a resiliência dos sistemas que nutrem nosso planeta e a privacidade das pessoas, construindo um legado de segurança e prosperidade verde para as próximas gerações."
+    },
+    "Design Criatividade": {
+      "titulo": "Alimento do Futuro: Design Circular",
+      "objetivo": "Identifique um problema real de desperdício de alimentos na sua rotina ou comunidade e conceba uma solução de design inovadora, sustentável e que pratique os princípios da economia circular. Pense em um produto, serviço, embalagem ou sistema que transforme 'lixo' em recurso ou prolongue a vida útil de alimentos.",
+      "moral": "Descubra como a criatividade e o design podem transformar desafios socioambientais em oportunidades, gerando valor, reduzindo o impacto ambiental e inspirando um futuro mais consciente e abundante."
+    },
 ```
 
 ---
